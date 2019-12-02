@@ -10,6 +10,7 @@ namespace EFTest02
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("this is a test for EF");
         }
     }
 }
